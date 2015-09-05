@@ -18,4 +18,4 @@ Features in the works:
   2. Everything connected to an online database
   3. Adding user created places to the map, and eventually add that to the online database for other users to see
   4. Expand app to include not just places, but also events like concerts, user organized events, etc.
-  5. Implementin a recommendation feature which recommends places to users based on their previous history of visited         and saved places.
+  5. Implementing a recommendation feature which recommends places to users based on their previous history of visited         and saved places.

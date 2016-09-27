@@ -17,7 +17,7 @@ import java.util.List;
  * Original source from http://v4all123.blogspot.in/2013/09/spinner-with-multiple-selection-in.html
  * Original Author: Gunaseelan A
  *
- * Modified and adapted by: Tom Thomas, Nikita Khan, Corly Leung
+ * Modified and adapted by: Tom Thomas
  */
 
 public class MultiSelectionSpinner extends Spinner implements
